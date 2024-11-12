@@ -127,7 +127,7 @@ button:nth-child(2):hover{
     width: 38rem;
 }
 .circle:nth-child(2){
-    background-image: url("image/pawan.jpg");
+    background-image: url("pawan.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     width: 30rem;
